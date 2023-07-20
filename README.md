@@ -1,3 +1,6 @@
+
+[![Header](https://i.ibb.co/hHPwC10/portada-github-2.png "Header")](https://www.linkedin.com/in/miguelcerra-design)
+
 <h1 align="center">Hola 👋, Soy Miguel Ángel Cerra D.</h1>
 <h3 align="center">Diseñador UX/UI, entusiasta y autodidacta por el desarrollo Frontend</h3>
 
@@ -20,7 +23,7 @@ Si tienes alguna pregunta, sugerencia o simplemente quieres hablar de **diseño 
 
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/miguelcerra-design" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miguelcerra-design" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/miguelcerra-design" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miguelcerra-design" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/miguelcerra-design" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/miguelcerra-design" height="30" width="40" /></a>
 </p>
 

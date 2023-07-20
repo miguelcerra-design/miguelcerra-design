@@ -7,18 +7,17 @@
 
 Mi trayectoria en el diseño me ha llevado a explorar el mundo del desarrollo web, y actualmente, estoy aprendiendo de forma autodidacta lenguajes de programación como HTML5, CSS3 y JavaScript para llevar mis diseños al siguiente nivel, creando sitios web funcionales y atractivos.
 
+- 🌱 Actualmente estoy aprendiendo **JavaScript**, lo implement ocon ayuda de AI.
+
 ### Contenido del portfolio
 
 En este repositorio, encontrarás una selección de proyectos que muestran mi habilidad en **diseño gráfico** y mi progreso en el desarrollo de **productos web**. Cada proyecto incluye una carpeta con los archivos de diseño y otra carpeta con el código fuente en HTML5 y CSS3 que implementa el diseño de manera funcional.
 
-- 🌱 Actualmente estoy aprendiendo **JavaScript**
 
-- 💬 Pregúntame sobre **Html5, CSS3 y SCSS**
-
-
-### Contacto
+### Conecta conmigo 💬
 
 Si tienes alguna pregunta, sugerencia o simplemente quieres hablar de **diseño o desarrollo web**, no dudes en contactarme por mis redes sociales o a través de mi perfil de GitHub.
+
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/miguelcerra-design" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miguelcerra-design" height="30" width="40" /></a>

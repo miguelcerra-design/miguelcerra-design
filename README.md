@@ -7,7 +7,7 @@
 
 Mi trayectoria en el diseño me ha llevado a explorar el mundo del desarrollo web, y actualmente, estoy aprendiendo de forma autodidacta lenguajes de programación como HTML5, CSS3 y JavaScript para llevar mis diseños al siguiente nivel, creando sitios web funcionales y atractivos.
 
-- 🌱 Actualmente estoy aprendiendo **JavaScript**, lo implement ocon ayuda de AI.
+- 🌱 Actualmente estoy aprendiendo **JavaScript**, lo implemento con ayuda de AI.
 
 ### Contenido del portfolio
 

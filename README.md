@@ -2,13 +2,9 @@
 [![Header](https://i.ibb.co/hHPwC10/portada-github-2.png "Header")](https://www.linkedin.com/in/miguelcerra-design)
 
 <h1 align="center">Hola 👋, Soy Miguel Ángel Cerra D.</h1>
-<h3 align="center">Diseñador UX/UI, entusiasta y autodidacta por el desarrollo Frontend</h3>
+<h3 align="center"> ¡Bienvenido a mi portfolio personal de diseño y desarrollo web!</h3>
 
-¡Bienvenido a mi portfolio personal de diseño y desarrollo web! Soy un diseñador gráfico especializado en experiencia de usuario (UX), y este repositorio es una recopilación de mis trabajos y proyectos más destacados.
-
-### Acerca de mí
-
-Mi trayectoria en el diseño me ha llevado a explorar el mundo del desarrollo web, y actualmente, estoy aprendiendo de forma autodidacta lenguajes de programación como HTML5, CSS3 y JavaScript para llevar mis diseños al siguiente nivel, creando sitios web funcionales y atractivos.
+Soy un diseñador gráfico especializado en experiencia de usuario (UX), mi trayectoria en el diseño me ha llevado a explorar el mundo del desarrollo web, y actualmente, estoy aprendiendo de forma autodidacta lenguajes de programación como HTML5, CSS3 y JavaScript para llevar mis diseños al siguiente nivel, creando sitios web funcionales y atractivos. En estos repositorios encontrarás una recopilación de mis trabajos y proyectos más destacados.
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript**, lo implemento con ayuda de AI.
 

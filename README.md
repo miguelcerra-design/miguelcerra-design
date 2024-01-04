@@ -1,5 +1,5 @@
 
-[![Header](https://i.ibb.co/hHPwC10/portada-github-2.png "Header")](https://www.linkedin.com/in/miguelcerra-design)
+[![Header](https://i.ibb.co/C2yTjGB/portada-github-dark.png "Header")](https://www.linkedin.com/in/miguelcerra-design)
 
 <h1 align="center">Hola 👋, Soy Miguel Ángel Cerra D.</h1>
 <h3 align="center"> ¡Bienvenido a mi portfolio personal de diseño y desarrollo web!</h3>
